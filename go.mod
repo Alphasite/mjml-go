@@ -1,4 +1,4 @@
-module github.com/Boostport/mjml-go
+module github.com/alphasite/mjml-go
 
 go 1.21
 
